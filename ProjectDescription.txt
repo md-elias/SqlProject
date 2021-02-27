@@ -1,0 +1,52 @@
+Project Name 	:Trainee Management System
+ID 		:1257168
+Name		:Md Elias
+Batch ID	:ESAD-CS/NVIT-M/44/01
+_______________________________________________________________________________
+Project Description	:
+
+4) INFORMATION DESCRIPTION
+
+Training Management System and web application:-.
+
+1) The purpose of the application is to help the director to get details about the training, employee, expenses , Training Center Information, Instractor Information, Status of Trainee
+
+2) Training Details, Batch Information,
+
+3) It helps the Training Coordinator to manage the training details, Trainee Information easily.
+
+4) This application also helps to manage Batch Assign of Selected Trainee
+
+5) This application is also useful to know Attendence Information of Trainee
+
+6) It helps to manage all visits during training.
+
+7) It also calculates the total gain and expenses  from a training.
+
+
+
+Project Objective
+To facilitate the process of management of training.
+To generate feedback information from trainees in different aspects.
+To generate feedback report for a particular duration.
+
+My Operation Element : DDL
+1.Database create with customize properties [don’t create a new database, if already exist], alter, delete
+2.Table Create, Alter, Delete, Default Value, Global table, Temporary table
+3.Function Create and Call (Scalar, Tabular), Normalization (3rd Normal Form Apply)/Denormalization
+4.Relationship with Tables (One to One, One to Many, Many to Many, Self-References)
+5.Views, Index (clustered, non-clustered), Stored procedure, Trigger
+6.Schema binding, Encryption, LIKE, Check, EXIST,  Try/Catch, If/Else, CASACDE Update/ Delete
+
+My Operation Element : DML
+1.CRUD => Select, insert, update, delete, Six Clause => Select, From, Where, Having, Group By, Order By
+
+2.Join (inner, outer, cross, self, full), Union, Union all, Cast, Convert, Concatenation, Computed Column, Distinct
+3.Nested Query, Sub Query,  Aggregate function
+4.Operator => Modulus, Mathematical, Bitwise, Logical
+5. While Loop, Raiserror, Sparse Column, Sequences, CTE, Wild Card, CARSOR
+6.Cube, Rollup, Grouping sets
+7.Transaction (Commit, Rollback, Data Type (Bit, Integer, Varchar, Nvarchar ))
+8.Variables, Ceiling, Floor, Date Format, Round, Average, Constraint, CASE, Filtering,  Throw, 
+
+
